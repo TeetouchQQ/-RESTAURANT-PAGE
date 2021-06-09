@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "RESTAURANT PAGE FOR THE ODIN PROJECT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeetouchQQ/RESTAURANT-PAGE.git"
+  },
+  "author": "teetouchQQ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeetouchQQ/RESTAURANT-PAGE/issues"
+  },
+  "homepage": "https://github.com/TeetouchQQ/RESTAURANT-PAGE#readme",
+  "devDependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
