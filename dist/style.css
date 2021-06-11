@@ -1,0 +1,56 @@
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    font-size: 30px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  .mainImg{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+  }
+  .MenuImg{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 400px;
+
+  }
+  .mainPassage{
+    font-size: 30px;
+    text-align: center;
+
+  }
+  .Pmenu{
+    font-size: 20px;
+    text-align: center;
+
+  }
+  .Pcontact{
+    font-size: 20px;
+    text-align: center;
+    line-height: 40px;
+
+  }
